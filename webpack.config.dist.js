@@ -70,7 +70,7 @@ module.exports = {
         use: [
           'style-loader',
           'css-loader',
-          'autoprefixer-loader',
+          'postcss-loader',
           'sass-loader',
         ],
         exclude,

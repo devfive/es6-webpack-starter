@@ -9,22 +9,22 @@ Simple ES6 & webpack 2 starter.
 
 1. Clone this repository to your new project directory.
 
-```
-git clone git@github.com:devfive/es6-webpack-starter.git your-new-project-directory
-cd your-new-project-directory
-```
+  ```
+  git clone git@github.com:devfive/es6-webpack-starter.git your-new-project-directory
+  cd your-new-project-directory
+  ```
 
 2. Remove .git directory
 
-```
-rm -rf .git
-```
+  ```
+  rm -rf .git
+  ```
 
 3. Initialize new git repository
 
-```
-git init
-```
+  ```
+  git init
+  ```
 
 4. Start work!
 

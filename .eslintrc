@@ -10,10 +10,7 @@
     "node": true,
   },
   "globals": {
-    "Phaser": true,
     "__DEV__": true,
-    "__API_URL__": true,
-    "__API_GAME_ID__": true,
   },
   "rules": {
     "comma-dangle": [2,"always-multiline"],
